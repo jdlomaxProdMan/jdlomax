@@ -1,5 +1,5 @@
-# Hi, I'm Jeff Lomax 👋
-### Principal Product Manager | B2B Enterprise SaaS
+# Hello, I'm Jeff Lomax 👋
+### Product Marketing & Product Management Leader | B2B Enterprise SaaS
 
 Welcome to my portfolio repository. In the world of enterprise software, the most impactful work—internal PRDs, sensitive roadmap data, and proprietary strategy—often lives behind closed doors. 
 
@@ -19,5 +19,5 @@ Instead of just listing features, this repository serves as a live look into my 
 ## 🛠️ My Enterprise Toolkit
 * **Discovery:** Continuous discovery, Jobs-to-be-Done (JTBD), Customer Advisory Boards (CABs).
 * **Planning:** Roadmunk, Jira, Productboard, FigJam.
-* **Analysis:** SQL, Mixpanel/Amplitude, Salesforce, Snowflake.
+* **Analysis:** SQL, Mixpanel, Salesforce, Snowflake.
 * **Stakeholder Management:** Navigating the "Buyer vs. User" gap and supporting Sales/Customer Success.
