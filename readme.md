@@ -1,13 +1,13 @@
-# Hello, I'm Jeff Lomax 👋
+# Hello, I'm Jeff Lomax
 ### Product Marketing & Product Management Leader | B2B Enterprise SaaS
 
-Welcome to my portfolio repository. In the world of enterprise software, the most impactful work—internal PRDs, sensitive roadmap data, and proprietary strategy—often lives behind closed doors. 
+Welcome to my portfolio repository. My focus here is on how to use AI to be more productive in marketing.  Some of the apps / processes / prompts I've put out are specific to the companies I've worked with, but I hope at the very least they trigger ideas and show what is possible.
 
-This space is designed to bridge that gap, showcasing my **product thinking**, **technical literacy**, and **methodology** for solving complex problems at scale.
+This space is designed to bridge that gap, showcasing **solutions**, **technical literacy**, and **methodology** for solving complex problems at scale.
 
 ---
 
-## 🚀 How I Use This Space
+## How I Use This Space
 Instead of just listing features, this repository serves as a live look into my decision-making framework and how I navigate the enterprise product lifecycle.
 
 ### 📂 What You’ll Find Here:
